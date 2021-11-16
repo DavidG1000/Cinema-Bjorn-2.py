@@ -1,6 +1,6 @@
 import math
 aantal = int(input("Aantal personen ? "))
-persLid = input("Bent u personeelslid ? (j/n)")
+persLid = input("Bent u personeelslid ? (j/n) ")
 leeftijd = 0
 prijs = 0
 film3d = 0
