@@ -38,6 +38,7 @@ for i in range(1,aantal+1):
         prijs = prijs + 0
     totaalPrijs = totaalPrijs + prijs
     print("Persoon",i, "betaald:",prijs,"euro")
+    print("********************************************")
 
 if (persLid == "j"):
     korting=(totaalPrijs*10)/100
